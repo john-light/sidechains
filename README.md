@@ -138,6 +138,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2018-10-03: [The Missing Tool to Cross-Chain Development and Interoperable Blockchains: the Chain Abstraction Layer](https://medium.com/liquality/the-missing-tool-to-cross-chain-development-2ebfe898efa1)  
 
+- 2019-01-29: [RSK: Bitcoin Powered Smart Contracts](https://www.rsk.co/Whitepapers/RSK-White-Paper-Updated.pdf)
+
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
 
 - 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
