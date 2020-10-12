@@ -3,7 +3,7 @@ This project attempts to create a comprehensive list of resources related to sid
 
 A sidechain is a blockchain that runs alongside another blockchain, where each blockchain can have its own independent consensus rules so long as both blockchains have sufficient functionality to enable the permissionless transfer of messages and financial assets back and forth between both blockchains.
 
-The blockchain that an asset originates from is generally referred to as the "mainchain", and the blockchain that the asset is transferred to is generally referred to as the sidechain. The mutual transferability between a mainchain and a sidechain is referred to as a "two-way peg" due to the way that the value of an asset is "pegged" 1:1 when transfered to a sidechain i.e. a pegged asset minted on a sidechain should always be redeemable 1:1 for the asset it represents on the mainchain.
+The blockchain that an asset originates from is generally referred to as the "mainchain" or "parent chain", and the blockchain that the asset is transferred to is generally referred to as the sidechain. The mutual transferability between a mainchain and a sidechain is referred to as a "two-way peg" due to the way that the value of an asset is "pegged" 1:1 when transfered to a sidechain i.e. a pegged asset minted on a sidechain should always be redeemable 1:1 for the asset it represents on the mainchain.
 
 # Papers
 
@@ -25,13 +25,9 @@ The blockchain that an asset originates from is generally referred to as the "ma
 
 - 2019-01-18: [Proof-of-Stake Bitcoin Sidechains](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
 
-- 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
-
 - 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
 
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
-
-- 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
 
 # Blog posts
 
@@ -44,8 +40,6 @@ The blockchain that an asset originates from is generally referred to as the "ma
 - 2019-04-17: [Why Drivechain Is Harder to Understand Than Previous Soft Forks](https://www.drivechain.info/blog/hard-to-understand/)  
 
 - 2019-04-17: [Is Liquid A "Real" Sidechain? Greg Maxwell Weighs In](https://www.drivechain.info/blog/liquid/)  
-
-- 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
 
 - 2020-04-30: [The difference between XCAT and Drivechain](https://lightco.in/2020/04/30/xcat-drivechain/)  
 
@@ -74,10 +68,6 @@ The blockchain that an asset originates from is generally referred to as the "ma
 - 2018-01-17: [NiPoPoW criticism](https://twitter.com/peterktodd/status/953511085008609280)  
 
 - 2019-07-04: [SIDECHAINS ARE NOT LAYER 2](https://twitter.com/gakonst/status/1146793685545304064)  
-
-- 2019-08-16: [tBTC announcement](https://twitter.com/mhluongo/status/1162481737525583873)  
-
-- 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
 # Presentations
 
@@ -130,9 +120,19 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
 
+- 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
+
+- 2019-08-16: [tBTC announcement](https://twitter.com/mhluongo/status/1162481737525583873)  
+
+- 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
+
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
+
+- 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
+
+- 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
 
