@@ -1,9 +1,29 @@
 # About
 This project attempts to create a comprehensive list of resources related to sidechain design and development.
 
-A sidechain is a blockchain that runs alongside another blockchain, where each blockchain can have its own independent consensus rules so long as both blockchains have sufficient functionality to enable the permissionless transfer of messages and financial assets back and forth between both blockchains.
+## Terminology
+According to the original [sidechains whitepaper](https://blockstream.com/sidechains.pdf) by Back et al, a sidechain is:
 
-The blockchain that an asset originates from is generally referred to as the "mainchain" or "parent chain", and the blockchain that the asset is transferred to is generally referred to as the sidechain. The mutual transferability between a mainchain and a sidechain is referred to as a "two-way peg" due to the way that the value of an asset is "pegged" 1:1 when transfered to a sidechain i.e. a pegged asset minted on a sidechain should always be redeemable 1:1 for the asset it represents on the mainchain.
+> a blockchain that validates data from other blockchains (p. 8)
+
+An example of a sidechain under this definition would be Ethereum, a blockchain that can validate data from the bitcoin blockchain in the form of [SPV proofs](https://medium.com/summa-technology/cross-chain-auction-technical-f16710bfe69f).
+
+Back et al go on to define a pegged sidechain as:
+
+> a sidechain whose assets can be imported from and returned to other chains; that is, a sidechain that supports two-way pegged assets. (p.8)
+
+The blockchain that an asset is imported from is the "mainchain" or "parent chain", and the blockchain that the asset is imported to is the sidechain. The mutual portability between a mainchain and a sidechain is referred to as a "two-way peg" due to the way that the value of an asset is "pegged" 1:1 when minted on a sidechain i.e. a pegged asset minted on a sidechain should always be redeemable 1:1 (minus any fees) for the asset it represents on the mainchain.
+
+Thus, crucial to the definition of a pegged sidechain, in the author's humble opinion, is that the portability of assets between a mainchain and sidechain should be permissionless; that is, no permission from any third part(y)(ies) should be required to import an asset into and export an asset from a sidechain. Back et al say as much as well:
+
+> 1. Assets which are moved between sidechains should be able to be moved back by whomever their current holder is, and nobody else (including previous holders).  
+> 2. Assets should be moved without counterparty risk; that is, there should be no ability for a dishonest party to prevent the transfer occurring. (p. 5)  
+
+Taken together, we can say that a pegged sidechain is:
+
+> a blockchain that validates data from other blockchains and supports permissionless, counterparty-free two-way pegged assets.  
+
+Based on observations by the author, this is the definition that most people probably think of when they use the term "sidechains", as opposed to the older and simpler definition given by Back et al. And so, while technically what is being referred to here is a "pegged sidechain", the same concept is now colloquially referred to simply as "sidechain" and this is how the term is used in this project as well.
 
 # Papers
 
@@ -135,7 +155,6 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
-
 
 # Bonus
 
