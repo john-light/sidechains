@@ -45,8 +45,6 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2019-01-18: [Proof-of-Stake Bitcoin Sidechains](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
 
-- 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
-
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
 
 # Blog posts
@@ -147,6 +145,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2019-08-16: [tBTC announcement](https://twitter.com/mhluongo/status/1162481737525583873)  
 
 - 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
+
+- 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
 
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
