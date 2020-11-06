@@ -138,6 +138,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2017-01-06: [Strong Federations: An Interoperable Blockchain Solution to Centralized Third Party Risks](https://blockstream.com/strong-federations.pdf)  
 
+- 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
+
 - 2018-10-03: [Interledger: How to Interconnect All Blockchains and Value Networks](https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543)  
 
 - 2018-10-03: [The Missing Tool to Cross-Chain Development and Interoperable Blockchains: the Chain Abstraction Layer](https://medium.com/liquality/the-missing-tool-to-cross-chain-development-2ebfe898efa1)  
