@@ -146,6 +146,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2019-01-29: [RSK: Bitcoin Powered Smart Contracts](https://www.rsk.co/Whitepapers/RSK-White-Paper-Updated.pdf)
 
+- 2019-03-15: [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)  
+
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
 
 - 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
