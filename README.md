@@ -154,6 +154,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
 
+- 2020-05-22: [Liquid: A Bitcoin Sidechain](https://blockstream.com/assets/downloads/pdf/liquid-whitepaper.pdf)  
+
 - 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
 
 - 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
