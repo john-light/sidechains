@@ -156,6 +156,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
 
+- 2020-01-12: [Coins: A Billion Bitcoin Users](https://coins.github.io/research/coins.pdf)  
+
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
