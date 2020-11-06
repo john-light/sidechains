@@ -73,6 +73,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2014-04-12: [Why do people think that side-chains are going to be secure?](https://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/)  
 
+- 2014-10-23: [Sidechains whitepaper AMA](https://www.reddit.com/r/IAmA/comments/2k3u97/we_are_bitcoin_sidechain_paper_authors_adam_back/)  
+
 - 2016-10-02: [Drivechain proposal using OP_COUNT_ACKS](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-October/013174.html)  
 
 - 2017-02-24: [How an anchored Proof of Stake Sidechain can help the Bitcoin main chain](https://www.reddit.com/r/Bitcoin/duplicates/5vy4qc/how_an_anchored_proof_of_stake_sidechain_can_help/)  
