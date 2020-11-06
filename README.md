@@ -53,11 +53,15 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2015-04-10: [Pegged Sidechains Whitepaper Notes](http://kevinriggen.com/Bitcoin/2015-04-10-Pegged-Sidechains-Whitepaper-Notes)  
 
-- 2015-current: [Drivechain literature](https://www.drivechain.info/literature/index.html)  
+- 2015-11-24: [Drivechain - The Simple Two Way Peg](https://www.truthcoin.info/blog/drivechain/)  
+
+- 2017-01-30: [Blind Merged Mining](https://www.truthcoin.info/blog/blind-merged-mining/)  
 
 - 2019-04-17: [Why Drivechain Is Harder to Understand Than Previous Soft Forks](https://www.drivechain.info/blog/hard-to-understand/)  
 
 - 2019-04-17: [Is Liquid A "Real" Sidechain? Greg Maxwell Weighs In](https://www.drivechain.info/blog/liquid/)  
+
+- 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
 
 - 2020-04-30: [The difference between XCAT and Drivechain](https://lightco.in/2020/04/30/xcat-drivechain/)  
 
@@ -145,8 +149,6 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2019-08-16: [tBTC announcement](https://twitter.com/mhluongo/status/1162481737525583873)  
 
 - 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
-
-- 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
 
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
