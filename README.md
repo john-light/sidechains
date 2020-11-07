@@ -107,6 +107,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2015-08-17: [Sidechains and Lightning Networks with Rusty Russell](https://softwareengineeringdaily.com/2015/08/17/sidechains-and-lightning-networks-with-rusty-russell/)  
 
+- 2016-04-19: [Interview with Greg Maxwell: Lightning Network Better Than Sidechains for Scaling Bitcoin](https://bitcoinmagazine.com/articles/greg-maxwell-lightning-network-better-than-sidechains-for-scaling-bitcoin-1461077424)  
+
 - 2017-11-15: [Daniel Krawisz and Paul Sztorc talk Drivechain](https://www.youtube.com/watch?v=iMNLB7Q8z80)  
 
 - 2018-09-30: [Let's Talk Bitcoin! #377 Sidechains, Drivechains and the Apple Store](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-377-sidechains-drivechains-and-the-apple-store)  
@@ -115,6 +117,8 @@ Based on observations by the author, this is the definition that most people pro
 
 # News
 
+- 2014-04-16: [Side Chains: The How, The Challenges and the Potential](https://bitcoinmagazine.com/articles/side-chains-challenges-potential)  
+
 - 2014-10-23: [Sidechains White Paper Imagines New Future for Digital Currency Development](https://www.coindesk.com/sidechains-white-paper-ecosystem-reboot)  
 
 - 2014-10-25: [Bitcoin 2.0: Sidechains And Ethereum And Zerocash, Oh My!](https://techcrunch.com/2014/10/25/bitcoin-2-0-sidechains-and-zerocash-and-ethereum-oh-my/)  
@@ -122,6 +126,8 @@ Based on observations by the author, this is the definition that most people pro
 - 2017-06-05: [Are Sidechains a Better Solution for Bitcoin’s Scaling Debate?](https://www.coindesk.com/are-sidechains-a-better-solution-for-bitcoins-scaling-debate)  
 
 - 2018-01-17: [The Sidechains Breakthrough Almost Everyone in Bitcoin Missed](https://www.coindesk.com/sidechains-breakthrough-almost-everyone-bitcoin-missed)  
+
+- 2018-02-19: [Sidechains: Why These Researchers Think They Solved a Key Piece of the Puzzle](https://bitcoinmagazine.com/articles/sidechains-why-these-researchers-think-they-solved-key-piece-puzzle)  
 
 - 2018-09-25: [Bitcoin Takes a Step Toward Becoming a ‘Multi-Network’ Cryptocurrency](https://www.coindesk.com/bitcoin-just-took-a-step-toward-becoming-a-multi-network-cryptocurrency)  
 
