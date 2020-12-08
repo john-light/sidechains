@@ -176,6 +176,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
 
+- 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)
+
 # Bonus
 
 - 2016-03-07: [My Sofa is a Sidechain](https://www.ic.unicamp.br/~stolfi/EXPORT/projects/bitcoin/posts/2015-06-10-my-sofa-is-a-sidechain/main.html)  
