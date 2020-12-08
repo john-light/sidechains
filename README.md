@@ -133,6 +133,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2019-02-27: [It's 2019, Where Are Bitcoin's Sidechains?](https://www.forbes.com/sites/ktorpey/2019/02/27/its-2019-where-are-bitcoins-sidechains/#7d917c553b4f)  
 
+- 2020-12-08: [RSK Is Evolving; Powpeg Leverages Hash Power To Switch From Bitcoin To Sidechain And Back](https://bitcoinmagazine.com/articles/rsk-is-evolving-powpeg-leverages-hash-power-to-switch-from-bitcoin-to-sidechain-and-back)
+
 # Patents
 
 - 2018-03-27: [Transferring ledger assets between blockchains via pegged sidechains](https://patents.google.com/patent/US20160330034A1/en)  
@@ -175,6 +177,10 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
+
+- 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)  
+
+- 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)
 
 # Bonus
 
