@@ -47,6 +47,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
 
+- 2020-12-31: [Softchains: Sidechains as a Soft Fork via Proof-of-Work Fraud Proofs](https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1)  
+
 # Blog posts
 
 - 2014-10-26: [A simple explanation of Bitcoin "Sidechains"](https://gendal.me/2014/10/26/a-simple-explanation-of-bitcoin-sidechains/)  
@@ -92,6 +94,8 @@ Based on observations by the author, this is the definition that most people pro
 - 2018-01-17: [NiPoPoW criticism](https://twitter.com/peterktodd/status/953511085008609280)  
 
 - 2019-07-04: [SIDECHAINS ARE NOT LAYER 2](https://twitter.com/gakonst/status/1146793685545304064)  
+
+- 2020-12-31: [Softchains: Sidechains as a Soft Fork via Proof-of-Work Fraud Proofs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2020-December/018331.html)  
 
 # Presentations
 
