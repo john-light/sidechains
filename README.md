@@ -172,6 +172,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
+- 2020-05-02: [Zcash Pegzone v2](https://github.com/ZcashFoundation/zcash-pegzone/blob/f8e22c4f9345d71256f98cd5d192e17de4c9b1dc/README.md)  
+
 - 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
 
 - 2020-05-22: [Liquid: A Bitcoin Sidechain](https://blockstream.com/assets/downloads/pdf/liquid-whitepaper.pdf)  
@@ -187,6 +189,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)  
 
 - 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
+
+- 2021-02-15: [RSK resources](https://github.com/john-light/RSK)  
 
 # Bonus
 
