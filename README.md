@@ -37,6 +37,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2017-09-23: [Proof-of-mainstake](https://zmnscpxj.github.io/sidechain/mainstake/index.html)  
 
+- 2018-07-03: [CountAcks Drivechain](https://github.com/rsksmart/bips/blob/master/BIP-R11.md)  
+
 - 2018-10-17: [Sidechains: Decoupled Consensus Between Chains](https://www.horizen.io/assets/files/Horizen-Sidechains-Decoupled-Consensus-Between-Chains.pdf)  
 
 - 2018-10-30: [Proof-of-Work Sidechains](https://eprint.iacr.org/2018/1048.pdf)  
