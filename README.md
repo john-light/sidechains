@@ -73,7 +73,9 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2020-10-08: [Introducing the Wormhole Bridge](https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7)  
 
-- 2021-11-08: [Scaling bitcoin with sidechains](https://lightco.in/2020/11/08/sidechains/)  
+- 2020-11-08: [Scaling bitcoin with sidechains](https://lightco.in/2020/11/08/sidechains/)  
+
+- 2021-01-25: [Introducing StakePeg: A trust-reduced two-way bitcoin peg](https://lightco.in/2021/01/25/stakepeg/)  
 
 # Discussion threads
 
@@ -193,6 +195,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)  
 
 - 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
+
+- 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
 
 - 2021-02-15: [RSK resources](https://github.com/john-light/RSK)  
 
