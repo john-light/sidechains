@@ -73,6 +73,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2020-10-08: [Introducing the Wormhole Bridge](https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7)  
 
+- 2021-11-08: [Scaling bitcoin with sidechains](https://lightco.in/2020/11/08/sidechains/)  
+
 # Discussion threads
 
 - 2014-04-12: [Why do people think that side-chains are going to be secure?](https://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/)  
