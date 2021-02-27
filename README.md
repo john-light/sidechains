@@ -200,6 +200,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2021-02-15: [RSK resources](https://github.com/john-light/RSK)  
 
+- 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
+
 # Bonus
 
 - 2016-03-07: [My Sofa is a Sidechain](https://www.ic.unicamp.br/~stolfi/EXPORT/projects/bitcoin/posts/2015-06-10-my-sofa-is-a-sidechain/main.html)  
