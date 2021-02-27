@@ -152,21 +152,9 @@ Based on observations by the author, this is the definition that most people pro
 # Semi-related
 While not directly related to sidechains _per se_, the following resources may be useful to understand the design space and tradeoffs around sidechains, and may describe complementary technologies as well.
 
-- 2015-06-08: [Announcing Sidechain Elements: Open source code and developer sidechains for advancing Bitcoin](https://blockstream.com/2015/06/08/en-714/)  
-
-- 2017-01-06: [Strong Federations: An Interoperable Blockchain Solution to Centralized Third Party Risks](https://blockstream.com/strong-federations.pdf)  
-
-- 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
-
-- 2018-10-03: [Interledger: How to Interconnect All Blockchains and Value Networks](https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543)  
-
-- 2018-10-03: [The Missing Tool to Cross-Chain Development and Interoperable Blockchains: the Chain Abstraction Layer](https://medium.com/liquality/the-missing-tool-to-cross-chain-development-2ebfe898efa1)  
-
-- 2019-01-29: [RSK: Bitcoin Powered Smart Contracts](https://www.rsk.co/Whitepapers/RSK-White-Paper-Updated.pdf)
+## Collateralized pegs  
 
 - 2019-03-15: [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)  
-
-- 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
 
 - 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
 
@@ -174,33 +162,55 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
 
-- 2020-01-12: [Coins: A Billion Bitcoin Users](https://coins.github.io/research/coins.pdf)  
-
-- 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
-
 - 2020-05-02: [Zcash Pegzone v2](https://github.com/ZcashFoundation/zcash-pegzone/blob/f8e22c4f9345d71256f98cd5d192e17de4c9b1dc/README.md)  
 
-- 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
+- 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)  
+
+- 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
+
+## Federated pegs
+
+- 2015-06-08: [Announcing Sidechain Elements: Open source code and developer sidechains for advancing Bitcoin](https://blockstream.com/2015/06/08/en-714/)  
+
+- 2017-01-06: [Strong Federations: An Interoperable Blockchain Solution to Centralized Third Party Risks](https://blockstream.com/strong-federations.pdf)  
+
+- 2019-01-29: [RSK: Bitcoin Powered Smart Contracts](https://www.rsk.co/Whitepapers/RSK-White-Paper-Updated.pdf)  
 
 - 2020-05-22: [Liquid: A Bitcoin Sidechain](https://blockstream.com/assets/downloads/pdf/liquid-whitepaper.pdf)  
+
+- 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)  
+
+## One-way pegs
 
 - 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
 
 - 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
+- 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
+
+## Cross-chain atomic swaps
+
+- 2018-10-03: [Interledger: How to Interconnect All Blockchains and Value Networks](https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543)  
+
+- 2018-10-03: [The Missing Tool to Cross-Chain Development and Interoperable Blockchains: the Chain Abstraction Layer](https://medium.com/liquality/the-missing-tool-to-cross-chain-development-2ebfe898efa1)  
+
+- 2020-05-11: [Succinct Atomic Swap](https://youtu.be/TlCxpdNScCA)  
+
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
 
-- 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)  
+## Miscellaneous
 
-- 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)  
+- 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
 
-- 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
+- 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
+
+- 2020-01-12: [Coins: A Billion Bitcoin Users](https://coins.github.io/research/coins.pdf)  
+
+- 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
 
 - 2021-02-15: [RSK resources](https://github.com/john-light/RSK)  
-
-- 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
 
 # Bonus
 
