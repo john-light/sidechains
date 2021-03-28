@@ -61,6 +61,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2017-01-30: [Blind Merged Mining](https://www.truthcoin.info/blog/blind-merged-mining/)  
 
+- 2018-08-30: [Ion Stage 2: Toward a General Interoperability Protocol (Part 1)](https://medium.com/clearmatics/ion-stage-2-toward-a-general-interoperability-protocol-part-1-d12b9d7316d3)  
+
 - 2019-04-17: [Why Drivechain Is Harder to Understand Than Previous Soft Forks](https://www.drivechain.info/blog/hard-to-understand/)  
 
 - 2019-04-17: [Is Liquid A "Real" Sidechain? Greg Maxwell Weighs In](https://www.drivechain.info/blog/liquid/)  
@@ -202,7 +204,11 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
 
+- 2019-03-22: [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)
+
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
+
+- 2019-10-02: [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)
 
 - 2020-01-12: [Coins: A Billion Bitcoin Users](https://coins.github.io/research/coins.pdf)  
 
