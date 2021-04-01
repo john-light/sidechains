@@ -73,8 +73,6 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2020-08-02: [Comparing two-way bitcoin pegs](https://lightco.in/2020/08/02/bitcoin-pegs/)  
 
-- 2020-10-08: [Introducing the Wormhole Bridge](https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7)  
-
 - 2020-11-08: [Scaling bitcoin with sidechains](https://lightco.in/2020/11/08/sidechains/)  
 
 # Discussion threads
@@ -152,19 +150,17 @@ Based on observations by the author, this is the definition that most people pro
 # Semi-related
 While not directly related to sidechains _per se_, the following resources may be useful to understand the design space and tradeoffs around sidechains, and may describe complementary technologies as well.
 
-## Collateralized pegs  
+## Collateralized pegs
 
 - 2019-03-15: [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)  
 
 - 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
 
-- 2019-08-16: [tBTC announcement](https://twitter.com/mhluongo/status/1162481737525583873)  
-
-- 2019-08-28: [Bridging Bitcoin and Ethereum](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7)  
-
 - 2020-05-02: [Zcash Pegzone v2](https://github.com/ZcashFoundation/zcash-pegzone/blob/f8e22c4f9345d71256f98cd5d192e17de4c9b1dc/README.md)  
 
 - 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)  
+
+- 2020-10-08: [Introducing the Wormhole Bridge](https://medium.com/certus-one/introducing-the-wormhole-bridge-24911b7335f7)  
 
 - 2021-01-XX: [Axelar Network: Connecting Applications with Blockchain Ecosystems](https://static1.squarespace.com/static/5f7679246f2afb311bbb67dd/t/602d3503ad35b40d1bdc209c/1613575428020/axelar_whitepaper_v1.pdf)  
 
@@ -187,8 +183,6 @@ While not directly related to sidechains _per se_, the following resources may b
 ## One-way pegs
 
 - 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
-
-- 2020-06-28: [Soft pegged sidechains announcement](https://twitter.com/fnietom/status/1277282028522790914)  
 
 - 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
 
@@ -219,8 +213,6 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
-
-- 2021-02-15: [RSK resources](https://github.com/john-light/RSK)  
 
 # Bonus
 
