@@ -77,8 +77,6 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2020-11-08: [Scaling bitcoin with sidechains](https://lightco.in/2020/11/08/sidechains/)  
 
-- 2021-01-25: [Introducing StakePeg: A trust-reduced two-way bitcoin peg](https://lightco.in/2021/01/25/stakepeg/)  
-
 # Discussion threads
 
 - 2014-04-12: [Why do people think that side-chains are going to be secure?](https://www.reddit.com/r/Bitcoin/comments/22vn4m/why_do_people_think_that_sidechains_are_going_to/)  
@@ -145,7 +143,7 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2019-02-27: [It's 2019, Where Are Bitcoin's Sidechains?](https://www.forbes.com/sites/ktorpey/2019/02/27/its-2019-where-are-bitcoins-sidechains/#7d917c553b4f)  
 
-- 2020-12-08: [RSK Is Evolving; Powpeg Leverages Hash Power To Switch From Bitcoin To Sidechain And Back](https://bitcoinmagazine.com/articles/rsk-is-evolving-powpeg-leverages-hash-power-to-switch-from-bitcoin-to-sidechain-and-back)
+- 2020-12-08: [RSK Is Evolving; Powpeg Leverages Hash Power To Switch From Bitcoin To Sidechain And Back](https://bitcoinmagazine.com/articles/rsk-is-evolving-powpeg-leverages-hash-power-to-switch-from-bitcoin-to-sidechain-and-back)  
 
 # Patents
 
@@ -167,6 +165,10 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-05-02: [Zcash Pegzone v2](https://github.com/ZcashFoundation/zcash-pegzone/blob/f8e22c4f9345d71256f98cd5d192e17de4c9b1dc/README.md)  
 
 - 2020-10-06: [Decentralized Custody Scheme with Game-Theoretic Security](https://arxiv.org/pdf/2008.10895.pdf)  
+
+- 2021-01-XX: [Axelar Network: Connecting Applications with Blockchain Ecosystems](https://static1.squarespace.com/static/5f7679246f2afb311bbb67dd/t/602d3503ad35b40d1bdc209c/1613575428020/axelar_whitepaper_v1.pdf)  
+
+- 2021-01-25: [Introducing StakePeg: A trust-reduced two-way bitcoin peg](https://lightco.in/2021/01/25/stakepeg/)  
 
 - 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
 
@@ -200,15 +202,17 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-09-02: [Launching OpenDEX - The Decentralized Exchange Standard](https://blog.exchangeunion.com/launching-opendex-the-decentralized-exchange-standard-b907d2a99b5a)  
 
+- 2021-01-12: [Vector 0.1.0 Mainnet Release](https://medium.com/connext/vector-0-1-0-mainnet-release-9496ae52c422)  
+
 ## Miscellaneous
 
-- 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)
+- 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)  
 
-- 2019-03-22: [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)
+- 2019-03-22: [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)  
 
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
 
-- 2019-10-02: [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)
+- 2019-10-02: [SoK: Communication Across Distributed Ledgers](https://eprint.iacr.org/2019/1128.pdf)  
 
 - 2020-01-12: [Coins: A Billion Bitcoin Users](https://coins.github.io/research/coins.pdf)  
 
