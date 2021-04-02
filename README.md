@@ -121,6 +121,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2018-09-30: [Let's Talk Bitcoin! #377 Sidechains, Drivechains and the Apple Store](https://letstalkbitcoin.com/blog/post/lets-talk-bitcoin-377-sidechains-drivechains-and-the-apple-store)  
 
+- 2020-08-27: [Cosmos Unchained: Bitcoin Peggy Showdown](https://www.youtube.com/watch?v=ArSftVH1Ads)  
+
 - 2020-09-17: [How Bitcoin Sidechains are the Altcoin Killer! An Interview with Paul Sztorc on Drivechains](https://youtu.be/BbcIAaWScUc)  
 
 # News
