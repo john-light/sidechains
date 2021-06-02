@@ -190,6 +190,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 ## Cross-chain atomic swaps
 
+- 2018-06-23: [COMIT Network: Connect all the Blockchains!!!](https://comit.network/blog/2018/06/23/connect-all-the-blockchains)
+
 - 2018-10-03: [Interledger: How to Interconnect All Blockchains and Value Networks](https://medium.com/xpring/interledger-how-to-interconnect-all-blockchains-and-value-networks-74f432e64543)  
 
 - 2018-10-03: [The Missing Tool to Cross-Chain Development and Interoperable Blockchains: the Chain Abstraction Layer](https://medium.com/liquality/the-missing-tool-to-cross-chain-development-2ebfe898efa1)  
