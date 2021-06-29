@@ -182,6 +182,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-12-02: [Building the Most Secure, Permissionless and Uncensorable Bitcoin Peg](https://medium.com/iovlabs-innovation-stories/building-the-most-secure-permissionless-and-uncensorable-bitcoin-peg-b5dc7020e5ec)  
 
+- 2021-01-XX: [Minpeg, a miners' multisig in the peg](https://github.com/rsksmart/RSKIPs/blob/master/IPs/RSKIP198.md)  
+
 ## One-way pegs
 
 - 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
