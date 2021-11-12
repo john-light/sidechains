@@ -189,6 +189,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 ## One-way pegs
 
+- 2020-01-01: [Permissionless Bitcoin Childchains w/ Continuous Proof of Bitcoin Burn (CPoBB) and 2-way-value-pegs (2wvp)](https://bitcointalk.org/index.php?topic=5214173.0)  
+
 - 2020-06-28: [Soft pegged sidechains](https://gist.github.com/fernandonm/cb9f719b125d93fb84e0988917bdde2a)  
 
 - 2020-12-12: [Spacechains presentation](https://twitter.com/SomsenRuben/status/1337863852202090505)  
