@@ -48,6 +48,7 @@ Based on observations by the author, this is the definition that most people pro
 - 2019-01-18: [Proof-of-Stake Bitcoin Sidechains](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
 
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
+- 2020-11-12: [Horizon: A Gas-Efficient Trustless Bridge for Cross-Chain Transactions](https://harmony.one/crosschain.pdf)  
 
 - 2020-12-31: [Softchains: Sidechains as a Soft Fork via Proof-of-Work Fraud Proofs](https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1)  
 
@@ -170,6 +171,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
 
+- 2021-09-13: [Optics is Here](https://medium.com/celoorg/optics-is-here-42aa610675ce)  
+
 ## Federated pegs
 
 - 2015-06-08: [Announcing Sidechain Elements: Open source code and developer sidechains for advancing Bitcoin](https://blockstream.com/2015/06/08/en-714/)  
@@ -219,6 +222,18 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
+
+- 2021-09-08: [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)  
+
+- 2021-09-10: [The tradeoffs of cross-chain communication](https://ls.mirror.xyz/5FM0KUurAEkN7yDXLAI8i9kCha_yMlzguVqiHEGMjPU)  
+
+- 2021-10-01: [The Interoperability Trilemma](https://medium.com/connext/the-interoperability-trilemma-657c2cf69f17)  
+
+- 2021-10-04: [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/)
+
+- 2021-10-25: [Across Protocol: Instant Trustless Token Transfers from Roll-up to Mainnet](https://drive.google.com/file/d/1t9tJUjJupLSvHKR8glwLKh8kpBNp5sp1/view)
+
+- 2021-10-26: [Stakechain: A Bitcoin-backed Proof-of-Stake](https://raw.githubusercontent.com/coins/research/master/Bitcoin_backed_Proof_of_Stake.pdf)  
 
 # Bonus
 
