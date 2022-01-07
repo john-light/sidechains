@@ -31,13 +31,13 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2016-04-01: [Drivechains, Sidechains and Hybrid 2-way peg Designs](https://docs.rsk.co/Drivechains_Sidechains_and_Hybrid_2-way_peg_Designs_R9.pdf)  
 
-- 2017-XX-XX: [Sidechain Weaknesses](https://zmnscpxj.github.io/sidechain/weakness/index.html)  
-
 - 2017-08-21: [Merged Mining: Curse of Cure?](https://eprint.iacr.org/2017/791)  
 
 - 2017-09-05: [Driveproof: Sidechain Headers On Mainchain (SHM)](https://zmnscpxj.github.io/sidechain/driveproof/index.html)  
 
 - 2017-09-23: [Proof-of-mainstake](https://zmnscpxj.github.io/sidechain/mainstake/index.html)  
+
+- 2017-12-02: [Sidechain Weaknesses](https://zmnscpxj.github.io/sidechain/weakness/index.html)  
 
 - 2018-06-28: [Research of Merged Mining Technology in Bitcoin Blockchain Scaling](http://www.wcse.org/WCSE_2018/W072.pdf)  
 
