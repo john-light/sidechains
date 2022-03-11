@@ -179,6 +179,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2021-09-13: [Optics is Here](https://medium.com/celoorg/optics-is-here-42aa610675ce)  
 
+- 2022-01-XX: [Nomad - a new design for radically cheaper cross-chain communication without header verification](https://docs.nomad.xyz/)  
+
 ## Federated pegs
 
 - 2015-06-08: [Announcing Sidechain Elements: Open source code and developer sidechains for advancing Bitcoin](https://blockstream.com/2015/06/08/en-714/)  
@@ -230,6 +232,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
 - 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
+
+- 2021-08-05: [Introducing the Cross-Chain Interoperability Protocol (CCIP) for Decentralized Inter-Chain Messaging and Token Movements](https://blog.chain.link/introducing-the-cross-chain-interoperability-protocol-ccip/)  
 
 - 2021-09-08: [Blockchain Bridges: Building Networks of Cryptonetworks](https://medium.com/1kxnetwork/blockchain-bridges-5db6afac44f8)  
 
