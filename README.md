@@ -161,6 +161,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 ## Collateralized pegs
 
+- 2018-10-15: [Retrofitting a two-way peg between blockchains](https://arxiv.org/pdf/1908.03999.pdf)
+
 - 2019-03-15: [XCLAIM: Trustless, Interoperable, Cryptocurrency-Backed Assets](https://eprint.iacr.org/2018/643.pdf)  
 
 - 2019-08-16: [tBTC: A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/)  
