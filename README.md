@@ -159,6 +159,12 @@ Based on observations by the author, this is the definition that most people pro
 # Semi-related
 While not directly related to sidechains _per se_, the following resources may be useful to understand the design space and tradeoffs around sidechains, and may describe complementary technologies as well.
 
+## Centralized pegs
+
+- 2019-01-24: [Wrapped Tokens: A multi-institutional framework for tokenizing any asset](https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf)
+
+- 2019-07-09: [HTLC and Atomic Peg](https://github.com/bnb-chain/BEPs/blob/master/BEP3.md)
+
 ## Collateralized pegs
 
 - 2018-10-15: [Retrofitting a two-way peg between blockchains](https://arxiv.org/pdf/1908.03999.pdf)
@@ -182,6 +188,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2021-09-13: [Optics is Here](https://medium.com/celoorg/optics-is-here-42aa610675ce)  
 
 - 2022-01-XX: [Nomad - a new design for radically cheaper cross-chain communication without header verification](https://docs.nomad.xyz/)  
+
+- 2022-04-22: [Bridging Sapling: Private Cross-Chain Transfers](https://arxiv.org/abs/2204.10611)
 
 ## Federated pegs
 
