@@ -49,7 +49,7 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2018-12-18: [Proof-of-Stake Sidechains](https://eprint.iacr.org/2018/1239.pdf)  
 
-- 2019-01-18: [Proof-of-Stake Bitcoin Sidechains](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
+- 2019-01-18: [Proof-of-Stake Bitcoin Sidechains v0.0.1](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
 
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
 - 2020-11-12: [Horizon: A Gas-Efficient Trustless Bridge for Cross-Chain Transactions](https://harmony.one/crosschain.pdf)  
@@ -184,6 +184,8 @@ While not directly related to sidechains _per se_, the following resources may b
 - 2021-01-25: [Introducing StakePeg: A trust-reduced two-way bitcoin peg](https://lightco.in/2021/01/25/stakepeg/)  
 
 - 2021-02-25: [How Gravity works](https://blog.althea.net/how-gravity-works/)  
+
+- 2022-06-22: [Proof-of-Stake Bitcoin Sidechains v2.1](https://gist.github.com/mappum/da11e37f4e90891642a52621594d03f6)
 
 - 2021-09-13: [Optics is Here](https://medium.com/celoorg/optics-is-here-42aa610675ce)  
 
