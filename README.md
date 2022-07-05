@@ -257,6 +257,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2021-10-26: [Stakechain: A Bitcoin-backed Proof-of-Stake](https://raw.githubusercontent.com/coins/research/master/Bitcoin_backed_Proof_of_Stake.pdf)  
 
+- 2022-01-20: [Babylon: Reusing Bitcoin Mining to Enhance Proof-of-Stake Security](https://eprint.iacr.org/2022/076)
+
 # Bonus
 
 - 2016-03-07: [My Sofa is a Sidechain](https://www.ic.unicamp.br/~stolfi/EXPORT/projects/bitcoin/posts/2015-06-10-my-sofa-is-a-sidechain/main.html)  
