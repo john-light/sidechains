@@ -233,6 +233,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2018-07-24: [Proposals to bridge to Ethereum](https://github.com/jpitts/eth-community-discussions/blob/master/proposals-to-bridge.md)  
 
+- 2018-10-24: [Niji: Bitcoin Bridge Utilizing Payment Channels](https://arxiv.org/abs/1810.10194)
+
 - 2019-03-22: [Sidechains and interoperability](https://arxiv.org/pdf/1903.04077.pdf)  
 
 - 2019-05-21: [Interchain Standards](https://github.com/cosmos/ics)  
