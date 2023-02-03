@@ -52,6 +52,7 @@ Based on observations by the author, this is the definition that most people pro
 - 2019-01-18: [Proof-of-Stake Bitcoin Sidechains v0.0.1](https://github.com/nomic-io/bitcoin-peg/blob/master/bitcoinPeg.md)  
 
 - 2020-01-01: [Zendoo: a zk-SNARK Verifiable Cross-Chain Transfer Protocol Enabling Decoupled and Decentralized Sidechains](https://eprint.iacr.org/2020/123.pdf)  
+
 - 2020-11-12: [Horizon: A Gas-Efficient Trustless Bridge for Cross-Chain Transactions](https://harmony.one/crosschain.pdf)  
 
 - 2020-12-31: [Softchains: Sidechains as a Soft Fork via Proof-of-Work Fraud Proofs](https://gist.github.com/RubenSomsen/7ecf7f13dc2496aa7eed8815a02f13d1)  
@@ -66,6 +67,8 @@ Based on observations by the author, this is the definition that most people pro
 
 - 2017-01-30: [Blind Merged Mining](https://www.truthcoin.info/blog/blind-merged-mining/)  
 
+- 2017-03-08: [OP_WITHDRAWPROOFVERIFY — The op code that powers SPV sidechains](https://medium.com/@Chris_Stewart_5/op-withdrawproofverify-the-op-code-that-powers-spv-sidechains-cefce996a324)  
+
 - 2018-08-30: [Ion Stage 2: Toward a General Interoperability Protocol (Part 1)](https://medium.com/clearmatics/ion-stage-2-toward-a-general-interoperability-protocol-part-1-d12b9d7316d3)  
 
 - 2019-04-17: [Why Drivechain Is Harder to Understand Than Previous Soft Forks](https://www.drivechain.info/blog/hard-to-understand/)  
@@ -73,6 +76,8 @@ Based on observations by the author, this is the definition that most people pro
 - 2019-04-17: [Is Liquid A "Real" Sidechain? Greg Maxwell Weighs In](https://www.drivechain.info/blog/liquid/)  
 
 - 2019-12-10: [Blind Merged Mining with covenants ( sighash_anyprevout / op_ctv )](https://gist.github.com/RubenSomsen/5e4be6d18e5fa526b17d8b34906b16a5)  
+
+- 2020-02-09: [Ideas on how to construct sidechains for chains that have covenant capabilities](https://gist.github.com/corollari/0da107093fd21d49cefddab268386cec)  
 
 - 2020-04-30: [The difference between XCAT and Drivechain](https://lightco.in/2020/04/30/xcat-drivechain/)  
 
