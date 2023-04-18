@@ -198,6 +198,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2022-04-22: [Bridging Sapling: Private Cross-Chain Transfers](https://arxiv.org/abs/2204.10611)
 
+- 2022-12-14: [sBTC: Design of a Trustless Two-way Peg for Bitcoin](https://stx.is/sbtc-pdf)
+
 ## Federated pegs
 
 - 2015-06-08: [Announcing Sidechain Elements: Open source code and developer sidechains for advancing Bitcoin](https://blockstream.com/2015/06/08/en-714/)  
