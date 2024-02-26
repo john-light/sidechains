@@ -252,6 +252,8 @@ While not directly related to sidechains _per se_, the following resources may b
 
 - 2020-01-21: [Introducing Cross-Chain Group](https://medium.com/cross-chain-group/introducing-cross-chain-group-c9238e62509e)  
 
+- 2020-02-06: [HawkClient: Building a Fully Decentralized Bridge Between RSK and Ethereum](https://blog.rootstock.io/noticia/hawkclient-building-a-fully-decentralized-bridge-between-rsk-and-ethereum/)
+
 - 2021-01-28: [Hop: Send Tokens Across Rollups](https://hop.exchange/whitepaper.pdf)  
 
 - 2021-08-05: [Introducing the Cross-Chain Interoperability Protocol (CCIP) for Decentralized Inter-Chain Messaging and Token Movements](https://blog.chain.link/introducing-the-cross-chain-interoperability-protocol-ccip/)  
